@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+
+# Python
+*.pyc
+
+# MacOS
+.DS_Store
+coverage.xml
+
+# VS Code
+.vscode/
